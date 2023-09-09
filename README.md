@@ -10,8 +10,41 @@
   </head>
   <body>
     <div class="table">
-      <div class="title>
+      <div class="title">
         <p>This is a table</p>
-        
+        </div>
+        <div class="heading">
+        <div class="cell">
+          <p>heading 1</p>
+        </div>
+        <div class="cell">
+          <p>Heading 2</p>
+        </div>
+        <div class="cell">
+          <p>Heading 3</p>
+        </div>
+        <div class="row">
+          <div class="cell">
+            <p>Row 1 Colomn 1</p>
+          </div>
+          <div class="cell">
+            <p>Row 1 colomn 2</p>
+          </div>
+          <div class="cell">
+            <p>Row 1 colomn 3</p>
+          </div>
+        </div>
+        <div clas="Row">
+          <div class="cell">
+            <p>Row 2 colomn 1</p>
+          </div>
+          <div class="cell">
+            <p>Row 2 colomn 2</p>
+          </div>
+          <div class="cell">
+            <p>Row 2 colomn 3</p>
+          </div>
+        </div>
+      </div>
   </body>
 </html>
